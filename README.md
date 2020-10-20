@@ -1,11 +1,10 @@
-# Fitness shop
+# Briyanis Website
 
-> This project is for selling gym goods
+> This project is for selling Briyani dishes
 
 ![screenshot](/images/screenshot.png)
 
-
-> This project is based on an online shop for electronics. Design is followed from this website https://www.behance.net/gallery/24796463/ZATTIX , but instead of a shop of electronics I created gym goods selling website
+> This project is based on an online shop for electronics. Design is followed from this website https://www.behance.net/gallery/24796463/ZATTIX , but instead of a shop of electronics I created Briyani selling website
 
 ## Built With
 
@@ -15,18 +14,15 @@
 - Scss
 - Bootstrap 4
 
-## Watch a video presentation of the project 
+## Watch a video presentation of the project
 
 [watch loom video](https://www.loom.com/share/8ed08e815f2645f2b1787a35f2c83cb6).
-
 
 ## Live Demo
 
 [Live Demo Link for index.html](https://mkrtichsargsyan.github.io/Fitness-Shop/)
 
 [Live Demo Link for search-page.html](https://rawcdn.githack.com/MkrtichSargsyan/Fitness-Shop/11cfdd96c0ecbe3853f55077931a7a37baf87db5/search-page.html)
-
-
 
 ## To get a local copy up and running follow these simple example steps.
 
@@ -53,18 +49,13 @@ And edit the .scss files
 
 ## Author
 
-👤 **Mkrtich Sargsyan**
+👤 **Mohammed Naqhid**
 
-- Github: [@githubhandle](https://github.com/MkrtichSargsyan)
-- Twitter: [@twitterhandle](https://twitter.com/MkrtichSargsyan)
-- Linkedin: [linkedin](https://www.linkedin.com/in/mkrtich-sargsyan-921ab0152/)
-- Email:  mkrtichsargsyan24@gmail.com
-
+- GitHub: [@Naqhid](https://github.com/Naqhid)s
+- Twitter: [Naqhid](https://twitter.com/naqhid)
+- LinkedIn: [Naqhid](https://www.linkedin.com/in/mohammed-naqhid-ab3080189/)
+- Email: mnaqhid@gmail.com
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
