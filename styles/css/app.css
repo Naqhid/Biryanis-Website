@@ -85,7 +85,7 @@ img {
 }
 
 .logo-font {
-  font-family: 'Playball', cursive;
+  font-family: "Playball", cursive;
   font-size: 36px;
 }
 
@@ -335,7 +335,7 @@ header ul:last-child {
 
 .showcase::before,
 .search-showcase::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
