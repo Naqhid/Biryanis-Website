@@ -20,7 +20,7 @@
 
 ## Live Demo
 
-[Live Demo Link for index.html](https://mkrtichsargsyan.github.io/Fitness-Shop/)
+[Live Demo Link for index.html](https://naqhid.github.io/Biryanis-Website/)
 
 [Live Demo Link for search-page.html](https://rawcdn.githack.com/MkrtichSargsyan/Fitness-Shop/11cfdd96c0ecbe3853f55077931a7a37baf87db5/search-page.html)
 
