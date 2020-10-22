@@ -2,7 +2,10 @@
 
 > This project is for selling Briyani dishes
 
-![screenshot](/images/screenshot.png)
+![screenshot](/images/SSBS.png)
+![screenshot](/images/SSB.png)
+![screenshot](/images/SSBM.png)
+![screenshot](/images/SSBL.png)
 
 > This project is based on an online shop for electronics. Design is followed from this website https://www.behance.net/gallery/24796463/ZATTIX , but instead of a shop of electronics I created Briyani selling website
 
