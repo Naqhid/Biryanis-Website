@@ -19,7 +19,7 @@
 
 ## Watch a video presentation of the project
 
-[watch loom video](https://www.loom.com/share/8ed08e815f2645f2b1787a35f2c83cb6).
+[watch video](https://youtu.be/9IxiZ0fd0qs).
 
 ## Live Demo
 
