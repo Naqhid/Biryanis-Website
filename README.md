@@ -25,8 +25,6 @@
 
 [Live Demo Link for index.html](https://naqhid.github.io/Biryanis-Website/)
 
-[Live Demo Link for search-page.html](https://rawcdn.githack.com/Naqhid/Biryanis-Website/afcacd26b0bb85cc100a93bd1047edc324dae8de/search-page.html)
-
 ## To get a local copy up and running follow these simple example steps.
 
 ### Setup
