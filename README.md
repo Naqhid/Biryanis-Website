@@ -59,6 +59,10 @@ And edit the .scss files
 - LinkedIn: [Naqhid](https://www.linkedin.com/in/mohammed-naqhid-ab3080189/)
 - Email: mnaqhid@gmail.com
 
+## Acknowledgement
+
+I have followed the design given by Mohammed Awad on Behance
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
